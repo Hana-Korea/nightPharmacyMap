@@ -1,0 +1,24 @@
+{
+  "name": "nightpharmacymap",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "dev": "parcel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hana-Korea/nightPharmacyMap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hana-Korea/nightPharmacyMap/issues"
+  },
+  "homepage": "https://github.com/Hana-Korea/nightPharmacyMap#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3"
+  }
+}
